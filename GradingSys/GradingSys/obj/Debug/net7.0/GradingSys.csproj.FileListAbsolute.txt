@@ -1,0 +1,15 @@
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\bin\Debug\net7.0\GradingSys.exe
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\bin\Debug\net7.0\GradingSys.deps.json
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\bin\Debug\net7.0\GradingSys.runtimeconfig.json
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\bin\Debug\net7.0\GradingSys.dll
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\bin\Debug\net7.0\GradingSys.pdb
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.csproj.AssemblyReference.cache
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.AssemblyInfoInputs.cache
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.AssemblyInfo.cs
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.csproj.CoreCompileInputs.cache
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.dll
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\refint\GradingSys.dll
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.pdb
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\GradingSys.genruntimeconfig.cache
+C:\Opus\Work\Projects\C#\GradingSys\GradingSys\obj\Debug\net7.0\ref\GradingSys.dll
